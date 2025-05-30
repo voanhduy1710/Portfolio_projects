@@ -45,9 +45,14 @@ Skills Used: Excel, Data Analysis, Inventory Tracking
 
 &nbsp;&nbsp;&nbsp;&nbsp;• Created Dimdate table, MoM DAX, Difference in Revenue and %, forecasting, smooth UI
     
-🧰 Tools & Programs
+## 🧰 Tools & Programs
 
     • Excel: formulas, charts, pivot tables, dashboards
     • SQL(PostgreSQL): data extraction, transformation, cleaning, aggregation, establishing pipeline
     • Power BI: visualization, DAX, forecast
     • Python: currently in progress
+
+## 📞 Contact
+
+- **Work phone:** +84 559982489
+- **Email:** voanhduy1710@gmail.com
