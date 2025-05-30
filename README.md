@@ -10,11 +10,8 @@ This collection highlights a range of real-world projects I've completed to shar
 Skills Used: Excel, Pivot Tables, Data Cleaning, Visualization
 
     • Analyzed Adidas sales data from 2020–2021.
-
     • Explored sales performance across product types, regions, and sales channels.
-
     • Built a dashboard to track total revenue, profit, orders, and trends over time.
-
     • Key insights included product performance, cost breakdowns, and growth opportunities in eCommerce and regional markets.
 
 **📁 2. Uber Trips**
