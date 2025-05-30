@@ -15,7 +15,7 @@ Skills Used: Excel, Pivot Tables, Data Cleaning, Visualization
 
 &nbsp;&nbsp;&nbsp;&nbsp;• Built a dashboard to track total revenue, profit, orders, and trends over time.
 
->• Key insights included product performance, cost breakdowns, and growth opportunities in eCommerce and regional markets.
+&nbsp;&nbsp;&nbsp;&nbsp;• Key insights included product performance, cost breakdowns, and growth opportunities in eCommerce and regional markets.
 
 **📁 2. Uber Trips**
 
