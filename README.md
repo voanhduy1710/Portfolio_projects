@@ -44,6 +44,8 @@ Skills Used: Excel, Data Analysis, Inventory Tracking
 &nbsp;&nbsp;&nbsp;&nbsp;• Included trend analysis, product segmentation, and forecasting.
 
 &nbsp;&nbsp;&nbsp;&nbsp;• Created Dimdate table, MoM DAX, Difference in Revenue and %, forecasting, smooth UI
+
+[**📁 4. SQL interview questions**](https://github.com/voanhduy1710/Portfolio_projects/blob/main/4.%20SQL_questions.md)
     
 ## 🧰 Tools & Programs
 
