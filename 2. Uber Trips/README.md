@@ -1,7 +1,7 @@
 # 📊 Portfolio Projects
 
 ## 🧾 Uber trips Dashboard Preview
-Interactive dashboard link: https://bit.ly/PowerBi_Dashboard_Uber
+[Interactive dashboard](https://bit.ly/PowerBi_Dashboard_Uber)
 
 Here’s a snapshot of the Dashboard from Uber trips Project:
 
