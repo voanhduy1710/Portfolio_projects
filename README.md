@@ -38,9 +38,6 @@ Skills Used: Excel, Data Analysis, Inventory Tracking
 🧰 Tools & Programs
 
     • Excel (formulas, charts, pivot tables, dashboards)
-
-    • SQL, specifically PostgreSQL (data extraction, transformation, cleaning, aggregation)
-    
+    • SQL, specifically PostgreSQL (data extraction, transformation, cleaning, aggregation, establishing pipeline)
     • Power BI (visualization, DAX, forecast)
-    
     • Python (currently in progress)
