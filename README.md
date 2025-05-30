@@ -17,7 +17,7 @@ Skills Used: Excel, Pivot Tables, Data Cleaning, Visualization
 
 &nbsp;&nbsp;&nbsp;&nbsp;• Key insights included product performance, cost breakdowns, and growth opportunities in eCommerce and regional markets.
 
-**📁 2. Uber Trips** https://bit.ly/PowerBi_Dashboard_Uber
+[**📁 2. Uber Trips**](https://bit.ly/PowerBi_Dashboard_Uber)
 
 Skills Used: SQL, PowerBI
 
@@ -31,7 +31,7 @@ Skills Used: SQL, PowerBI
 
 &nbsp;&nbsp;&nbsp;&nbsp;• Created Dimdate table and aggregated data into Hours of day to create a Heatmap visual
     
-**📁 3. Supply Chain & Sales** https://bit.ly/Powerbi_Dashboard_Supply
+[**📁 3. Supply Chain & Sales**](https://bit.ly/Powerbi_Dashboard_Supply)
 
 Skills Used: Excel, Data Analysis, Inventory Tracking
 
