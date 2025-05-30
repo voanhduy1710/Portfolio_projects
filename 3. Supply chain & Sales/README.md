@@ -1,7 +1,7 @@
 # 📊 Portfolio Projects
 
 ## 🧾 Supply chain & Sales Dashboard Preview
-[Interactive dashboard link](https://bit.ly/PowerBi_Dashboard_Uber](https://bit.ly/Powerbi_Dashboard_Supply)
+[Interactive dashboard](https://bit.ly/Powerbi_Dashboard_Supply)
 
 Here’s a snapshot of the Dashboard from Supply chain & Sales Project:
 
