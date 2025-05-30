@@ -14,35 +14,32 @@ Skills Used: Excel, Pivot Tables, Data Cleaning, Visualization
     • Built a dashboard to track total revenue, profit, orders, and trends over time.
     • Key insights included product performance, cost breakdowns, and growth opportunities in eCommerce and regional markets.
 
+
 **📁 2. Uber Trips**
 
 Skills Used: SQL, PowerBI
 
     • Examined Uber trip data from June 2024.
-
     • Created an interactive dashboard to monitor booking volume, trip duration, fare amounts, and customer behavior.
-
     • Highlighted most popular routes, preferred vehicle types, and peak usage hours.
-
     • Insights can help improve customer service and route planning.
-
+    • Created Dimdate table and aggregated data into Hours of day to create a Heatmap visual
+    
 **📁 3. Supply Chain & Sales**
 
 Skills Used: Excel, Data Analysis, Inventory Tracking
 
+    • Reading, cleaning raw data.
     • Combined supply chain, sales, and customer data for a full view of business performance.
-
     • Tracked revenue, profit, return rates, order volume, and shipping methods.
-
     • Included trend analysis, product segmentation, and forecasting.
-
-    • Helped identify areas for improvement in logistics, pricing, and inventory management.
-
+    • Created Dimdate table, MoM DAX, Difference in Revenue and %, forecasting, smooth UI
+    
 🧰 Tools & Programs
 
     • Excel (formulas, charts, pivot tables, dashboards)
 
-    • SQL (data extraction, transformation, cleaning, aggregation)
+    • SQL, specifically PostgreSQL (data extraction, transformation, cleaning, aggregation)
     
     • Power BI (visualization, DAX, forecast)
     
