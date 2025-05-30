@@ -4,6 +4,7 @@ Welcome to my Data Analyst portfolio repository!
 This collection highlights a range of real-world projects I've completed to sharpen my skills in data cleaning, analysis, visualization, and insight generation using tools like Excel, SQL, and Power BI.
 
 🔍 Projects Overview
+
 📁 1. Excel – Addidas Sales
 
 Skills Used: Excel, Pivot Tables, Data Cleaning, Visualization
