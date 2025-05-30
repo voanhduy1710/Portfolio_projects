@@ -1,7 +1,7 @@
 # 📊 Portfolio Projects
 
 ## 🧾 Supply chain & Sales Dashboard Preview
-[Interactive dashboard](https://bit.ly/Powerbi_Dashboard_Supply)
+[Interactive dashboard]([https://bit.ly/Powerbi_Dashboard_Supply](https://app.powerbi.com/view?r=eyJrIjoiMTg5YmZkZGUtMDVkOC00MDg4LTg4NmItOGMwZGM5YTRmZjZiIiwidCI6Ijg5NjQxZWIwLWU1ZmMtNDRlYi05MWRiLTc4ZDI5YmFkMTc3OCIsImMiOjEwfQ%3D%3D&pageName=62a7d95ec01d5533424c))
 
 Here’s a snapshot of the Dashboard from Supply chain & Sales Project:
 
