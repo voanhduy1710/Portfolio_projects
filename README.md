@@ -1,49 +1,49 @@
 📊 Portfolio_Projects
 
 Welcome to my Data Analyst portfolio repository!
-This collection highlights a range of real-world projects I've completed to sharpen my skills in data cleaning, analysis, visualization, and insight generation using tools like Excel, SQL, Python, and Power BI.
+This collection highlights a range of real-world projects I've completed to sharpen my skills in data cleaning, analysis, visualization, and insight generation using tools like Excel, SQL, and Power BI.
 
 🔍 Projects Overview
 📁 1. Excel – Addidas Sales
 
-Skills Used: Excel, Pivot Tables, Data Cleaning
+Skills Used: Excel, Pivot Tables, Data Cleaning, Visualization
 
-    Cleaned and transformed raw sales data from Adidas.
+    • Analyzed Adidas sales data from 2020–2021.
 
-    Built dynamic dashboards to track key performance metrics.
+    • Explored sales performance across product types, regions, and sales channels.
 
-    Conducted trend analysis and regional sales performance.
+    • Built a dashboard to track total revenue, profit, orders, and trends over time.
+
+    • Key insights included product performance, cost breakdowns, and growth opportunities in eCommerce and regional markets.
 
 📁 2. Uber Trips
 
-Skills Used: Excel, Data Visualization
+Skills Used: SQL, PowerBI
 
-    Analyzed Uber trip data to discover patterns in usage.
+    • Examined Uber trip data from June 2024.
 
-    Identified peak hours, locations, and key customer behavior.
+    • Created an interactive dashboard to monitor booking volume, trip duration, fare amounts, and customer behavior.
 
-    Visualized insights for decision-making support.
+    • Highlighted most popular routes, preferred vehicle types, and peak usage hours.
+
+    • Insights can help improve customer service and route planning.
 
 📁 3. Supply Chain & Sales
 
 Skills Used: Excel, Data Analysis, Inventory Tracking
 
-    Evaluated supply chain data and sales records.
+    • Combined supply chain, sales, and customer data for a full view of business performance.
 
-    Built summary reports to monitor product movement.
+    • Tracked revenue, profit, return rates, order volume, and shipping methods.
 
-    Helped identify inefficiencies and suggested improvements.
+    • Included trend analysis, product segmentation, and forecasting.
 
-🧰 Tools & Technologies
+    • Helped identify areas for improvement in logistics, pricing, and inventory management.
 
-    Excel (formulas, charts, pivot tables, dashboards)
+🧰 Tools & Programs
 
-    Python (Pandas, Matplotlib, Seaborn – coming soon)
+    • Excel (formulas, charts, pivot tables, dashboards)
 
-    SQL (data extraction and transformation – coming soon)
-
-    Power BI/Tableau (for storytelling and dashboards – coming soon)
-
-💼 About Me
-
-I’m a passionate data analyst with a strong foundation in transforming data into actionable insights. I created this portfolio to showcase my problem-solving approach and demonstrate my analytical thinking through real-world data sets.
+    • SQL (data extraction, transformation, cleaning, aggregation)
+    
+    • Power BI (visualization, DAX, forecast)
