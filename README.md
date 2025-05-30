@@ -5,7 +5,7 @@ This collection highlights a range of real-world projects I've completed to shar
 
 ## 🔍 Projects Overview
 
-📁 1. Excel – Addidas Sales
+**📁 1. Excel – Addidas Sales**
 
 Skills Used: Excel, Pivot Tables, Data Cleaning, Visualization
 
@@ -17,7 +17,7 @@ Skills Used: Excel, Pivot Tables, Data Cleaning, Visualization
 
     • Key insights included product performance, cost breakdowns, and growth opportunities in eCommerce and regional markets.
 
-📁 2. Uber Trips
+**📁 2. Uber Trips**
 
 Skills Used: SQL, PowerBI
 
@@ -29,7 +29,7 @@ Skills Used: SQL, PowerBI
 
     • Insights can help improve customer service and route planning.
 
-📁 3. Supply Chain & Sales
+**📁 3. Supply Chain & Sales**
 
 Skills Used: Excel, Data Analysis, Inventory Tracking
 
@@ -48,3 +48,5 @@ Skills Used: Excel, Data Analysis, Inventory Tracking
     • SQL (data extraction, transformation, cleaning, aggregation)
     
     • Power BI (visualization, DAX, forecast)
+    
+    • Python (currently in progress)
