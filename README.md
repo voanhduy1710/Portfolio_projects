@@ -5,7 +5,7 @@ This collection highlights a range of real-world projects I've completed to shar
 
 ## 🔍 Projects Overview
 
-**📁 1. Excel – Addidas Sales**
+[**📁 1. Excel – Addidas Sales**](https://github.com/voanhduy1710/Portfolio_projects/blob/main/1.%20Excel%20-%20Addidas%20Sales/1.%20Excel%20-%20Addidas%20Sales%20Dashboard.png?raw=true)
 
 Skills Used: Excel, Pivot Tables, Data Cleaning, Visualization
 
