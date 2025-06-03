@@ -46,6 +46,14 @@ Skills Used: Excel, Data Analysis, Inventory Tracking
 &nbsp;&nbsp;&nbsp;&nbsp;• Created Dimdate table, MoM DAX, Difference in Revenue and %, forecasting, smooth UI
 
 [**📁 4. SQL interview questions**](https://github.com/voanhduy1710/Portfolio_projects/blob/main/4.%20SQL_questions.md)
+
+&nbsp;&nbsp;&nbsp;&nbsp;• Basics and Aggregating Data (COUNT, SUM, AVG, MIN, MAX, etc.)
+
+&nbsp;&nbsp;&nbsp;&nbsp;• CTEs: Common table expressions 
+
+&nbsp;&nbsp;&nbsp;&nbsp;• Windows functions: Ranking, numbering, PARTITION BY (), moving average (ROWS BETWEEN..)
+
+&nbsp;&nbsp;&nbsp;&nbsp;• Joining tables: Left, Right, Outer Joins
     
 ## 🧰 Tools & Programs
 
