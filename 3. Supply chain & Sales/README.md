@@ -1,8 +1,17 @@
 # 📊 Portfolio Projects
-Analyzing Ubertrips in June 2024. Interactive dashboard can be found [here](https://app.powerbi.com/view?r=eyJrIjoiMTg5YmZkZGUtMDVkOC00MDg4LTg4NmItOGMwZGM5YTRmZjZiIiwidCI6Ijg5NjQxZWIwLWU1ZmMtNDRlYi05MWRiLTc4ZDI5YmFkMTc3OCIsImMiOjEwfQ%3D%3D&pageName=62a7d95ec01d5533424c)
+Analyzing Supply chain and Sales of a Consumer good Supply Company from June 2014-2017. Interactive dashboard can be found [here](https://app.powerbi.com/view?r=eyJrIjoiMTg5YmZkZGUtMDVkOC00MDg4LTg4NmItOGMwZGM5YTRmZjZiIiwidCI6Ijg5NjQxZWIwLWU1ZmMtNDRlYi05MWRiLTc4ZDI5YmFkMTc3OCIsImMiOjEwfQ%3D%3D&pageName=62a7d95ec01d5533424c)
 
 ## 🎯 Key Metrics & Dimensions
 
+**• Revenue:** Total income generated from sales across all products and customer segments.
+
+**• Profit:** Earnings after subtracting all costs.
+
+**• Return Rate:** Percentage of sold items that customers returned; indicates satisfaction and product quality.
+
+**• MoM Changes:** Month-over-month percentage changes in revenue, profit, and other KPIs to monitor trends.
+
+**• Distribution:** by Category, Segment over time
 
 
 ## 💡 Summary of Insights
