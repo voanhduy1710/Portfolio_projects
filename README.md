@@ -5,7 +5,7 @@ This collection highlights a range of projects I've completed to sharpen my skil
 
 ## 🔍 Projects Overview
 
-[**📁 1. Excel – Addidas Sales**](https://github.com/voanhduy1710/Portfolio_projects/blob/main/1.%20Excel%20-%20Addidas%20Sales/1.%20Excel%20-%20Addidas%20Sales%20Dashboard.png?raw=true)
+[**📁 1. Excel – Addidas Sales**](https://github.com/voanhduy1710/Portfolio_projects/tree/main/1.%20Excel%20-%20Addidas%20Sales)
 
 Skills Used: Excel, Pivot Tables, Data Cleaning, Visualization
 
@@ -17,7 +17,7 @@ Skills Used: Excel, Pivot Tables, Data Cleaning, Visualization
 
 &nbsp;&nbsp;&nbsp;&nbsp;• Key insights included product performance, cost breakdowns, and growth opportunities in eCommerce and regional markets.
 
-[**📁 2. Uber Trips**](https://app.powerbi.com/view?r=eyJrIjoiMWU5YWNjOGMtNzY2NC00MTk3LWIxZDEtMmNhYjIxM2Q2YjA5IiwidCI6Ijg5NjQxZWIwLWU1ZmMtNDRlYi05MWRiLTc4ZDI5YmFkMTc3OCIsImMiOjEwfQ%3D%3D&pageName=e26fe47c30d523a8e80b)
+[**📁 2. Uber Trips**](https://github.com/voanhduy1710/Portfolio_projects/tree/main/2.%20Uber%20Trips)
 
 Skills Used: SQL, PowerBI
 
@@ -31,8 +31,7 @@ Skills Used: SQL, PowerBI
 
 &nbsp;&nbsp;&nbsp;&nbsp;• Created Dimdate table and aggregated data into Hours of day to create a Heatmap visual
     
-[**📁 3. Supply Chain & Sales**](https://app.powerbi.com/view?r=eyJrIjoiMTg5YmZkZGUtMDVkOC00MDg4LTg4NmItOGMwZGM5YTRmZjZiIiwidCI6Ijg5NjQxZWIwLWU1ZmMtNDRlYi05MWRiLTc4ZDI5YmFkMTc3OCIsImMiOjEwfQ%3D%3D&pageName=62a7d95ec01d5533424c)
-
+[**📁 3. Supply Chain & Sales**](https://github.com/voanhduy1710/Portfolio_projects/tree/main/3.%20Supply%20chain%20%26%20Sales)
 Skills Used: Excel, Data Analysis, Inventory Tracking
 
 &nbsp;&nbsp;&nbsp;&nbsp;• Extract, basic analysis, cleaned the raw data.
