@@ -3,33 +3,15 @@ Analyzing Ubertrips in June 2024. Interactive dashboard can be found [here](http
 
 ## 🎯 Key Metrics & Dimensions
 
-**• Booking value:** Total estimated revenue in set period
 
-**• Peak hourse:** Hours of day with most rides
-
-**• Busiest days:** Day of week with highest ride volume 
-
-**• Distribution:** Total bookings by vehicle type, payment, period of the day
 
 ## 💡 Summary of Insights
 
-• Most trips occurred in Midtown, Downtown, and LIC.
 
-• Peak hours were 5 PM – 7 PM, especially on weekdays.
-
-• Late-night demand increased on weekend nights.
-
-• Low activity in outer zones shows potential market gaps.
 
 ## ✅ Recommendations and next steps
 
-• Position drivers in high-demand zones during peak hours.
 
-• Promote rides in low-traffic areas to boost coverage.
-
-• Incentivize off-peak driving to balance supply.
-
-• Use demand trends to improve driver scheduling.
 
 
 ## 🧾 Supply chain & Sales Dashboard Preview
