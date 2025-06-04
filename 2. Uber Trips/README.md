@@ -39,4 +39,4 @@ Here’s a snapshot of the Dashboard from Uber trips Project:
 ![Uber Trips Dashboard](https://github.com/voanhduy1710/Portfolio_projects/blob/main/2.%20Uber%20Trips/2.%20Uber%20Trips%20Dashboard.png?raw=true)
 
 ## Dataset Preview
-![UDataset preview](https://github.com/voanhduy1710/Portfolio_projects/blob/main/2.%20Uber%20Trips/Dataset%20preview.png?raw=true)
+![Dataset preview](https://github.com/voanhduy1710/Portfolio_projects/blob/main/2.%20Uber%20Trips/Dataset%20preview.png?raw=true)
