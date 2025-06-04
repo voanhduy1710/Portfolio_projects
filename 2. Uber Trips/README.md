@@ -1,7 +1,7 @@
 # 📊 Portfolio Projects
-Analyzing Ubertrips
-Interactive dashboard can be found [here](https://app.powerbi.com/view?r=eyJrIjoiMWU5YWNjOGMtNzY2NC00MTk3LWIxZDEtMmNhYjIxM2Q2YjA5IiwidCI6Ijg5NjQxZWIwLWU1ZmMtNDRlYi05MWRiLTc4ZDI5YmFkMTc3OCIsImMiOjEwfQ%3D%3D&pageName=e26fe47c30d523a8e80b)
+Analyzing Ubertrips in June 2024. Interactive dashboard can be found [here](https://app.powerbi.com/view?r=eyJrIjoiMWU5YWNjOGMtNzY2NC00MTk3LWIxZDEtMmNhYjIxM2Q2YjA5IiwidCI6Ijg5NjQxZWIwLWU1ZmMtNDRlYi05MWRiLTc4ZDI5YmFkMTc3OCIsImMiOjEwfQ%3D%3D&pageName=e26fe47c30d523a8e80b)
 
+## 🎯 Uber trips Dashboard Preview
 
 
 ## 🧾 Uber trips Dashboard Preview
