@@ -5,14 +5,14 @@ This collection highlights a range of projects I've completed to sharpen my skil
 
 ## 🔍 Projects Overview
 
-[**📁 1. Excel – Addidas Sales**](https://github.com/voanhduy1710/Portfolio_projects/tree/main/1.%20Excel%20-%20Addidas%20Sales)
+[**📁 1. Supply Chain & Sales**](https://github.com/voanhduy1710/Portfolio_projects/tree/main/3.%20Supply%20chain%20%26%20Sales)
+Skills Used: Excel, Data Analysis, Inventory Tracking
 
-Skills Used: Excel, Pivot Tables, Data Cleaning, Visualization
-
-&nbsp;&nbsp;&nbsp;&nbsp;• Analyzed Adidas sales data from 2020–2021.  
-&nbsp;&nbsp;&nbsp;&nbsp;• Explored sales performance across product types, regions, and sales channels.  
-&nbsp;&nbsp;&nbsp;&nbsp;• Built a dashboard to track total revenue, profit, orders, and trends over time.  
-&nbsp;&nbsp;&nbsp;&nbsp;• Key insights included product performance, cost breakdowns, and growth opportunities in eCommerce and regional markets.
+&nbsp;&nbsp;&nbsp;&nbsp;• Extract, basic analysis, cleaned the raw data.  
+&nbsp;&nbsp;&nbsp;&nbsp;• Combined supply chain, sales, and customer data for a full view of business performance.  
+&nbsp;&nbsp;&nbsp;&nbsp;• Tracked revenue, profit, return rates, order volume, and shipping methods.  
+&nbsp;&nbsp;&nbsp;&nbsp;• Included trend analysis, product segmentation, and forecasting.  
+&nbsp;&nbsp;&nbsp;&nbsp;• Created Dimdate table, MoM DAX, Difference in Revenue and %, forecasting, smooth UI  
 
 [**📁 2. Uber Trips**](https://github.com/voanhduy1710/Portfolio_projects/tree/main/2.%20Uber%20Trips)
 
@@ -24,14 +24,14 @@ Skills Used: SQL, PowerBI
 &nbsp;&nbsp;&nbsp;&nbsp;• Insights can help improve customer service and route planning.  
 &nbsp;&nbsp;&nbsp;&nbsp;• Created Dimdate table and aggregated data into Hours of day to create a Heatmap visual  
 
-[**📁 3. Supply Chain & Sales**](https://github.com/voanhduy1710/Portfolio_projects/tree/main/3.%20Supply%20chain%20%26%20Sales)
-Skills Used: Excel, Data Analysis, Inventory Tracking
+[**📁 3. Excel – Addidas Sales**](https://github.com/voanhduy1710/Portfolio_projects/tree/main/1.%20Excel%20-%20Addidas%20Sales)
 
-&nbsp;&nbsp;&nbsp;&nbsp;• Extract, basic analysis, cleaned the raw data.  
-&nbsp;&nbsp;&nbsp;&nbsp;• Combined supply chain, sales, and customer data for a full view of business performance.  
-&nbsp;&nbsp;&nbsp;&nbsp;• Tracked revenue, profit, return rates, order volume, and shipping methods.  
-&nbsp;&nbsp;&nbsp;&nbsp;• Included trend analysis, product segmentation, and forecasting.  
-&nbsp;&nbsp;&nbsp;&nbsp;• Created Dimdate table, MoM DAX, Difference in Revenue and %, forecasting, smooth UI  
+Skills Used: Excel, Pivot Tables, Data Cleaning, Visualization
+
+&nbsp;&nbsp;&nbsp;&nbsp;• Analyzed Adidas sales data from 2020–2021.  
+&nbsp;&nbsp;&nbsp;&nbsp;• Explored sales performance across product types, regions, and sales channels.  
+&nbsp;&nbsp;&nbsp;&nbsp;• Built a dashboard to track total revenue, profit, orders, and trends over time.  
+&nbsp;&nbsp;&nbsp;&nbsp;• Key insights included product performance, cost breakdowns, and growth opportunities in eCommerce and regional markets.
 
 [**📁 4. SQL interview questions**](https://github.com/voanhduy1710/Portfolio_projects/blob/main/4.%20SQL_questions.md)
 
