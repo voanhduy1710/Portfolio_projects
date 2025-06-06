@@ -6,6 +6,7 @@ This collection highlights a range of projects I've completed to sharpen my skil
 ## 🔍 Projects Overview
 
 [**📁 1. Supply Chain & Sales**](https://github.com/voanhduy1710/Portfolio_projects/tree/main/3.%20Supply%20chain%20%26%20Sales)
+
 Skills Used: Excel, Data Analysis, Inventory Tracking
 
 &nbsp;&nbsp;&nbsp;&nbsp;• Extract, basic analysis, cleaned the raw data.  
