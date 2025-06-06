@@ -22,7 +22,7 @@ Analyzing Supply chain and Sales of a Consumer good Supply Company from June 201
 
 • Sales performance varies across different regions, highlighting the importance of region-specific marketing and distribution strategies.
 
-• ICertain products exhibit slow inventory turnover, indicating potential overstocking issues that tie up capital and storage resources.
+• Certain products exhibit slow inventory turnover, indicating potential overstocking issues that tie up capital and storage resources.
 
 • Analysis reveals delays in the supply chain, particularly in the procurement and distribution phases, affecting overall efficiency.
 
