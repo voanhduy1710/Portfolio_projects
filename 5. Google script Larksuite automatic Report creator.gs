@@ -1,6 +1,6 @@
 //To get the final result select runAllTasks -> Run
 //-----------------------------------------------------------------------------------------------------------------------------------------------
-// Phần 1: Kết nối và Xác thực 
+// Connecting and Authenticating
 function getAccessToken() {
   const url = "https://open.larksuite.com/open-apis/auth/v3/tenant_access_token/internal";
   const payload = { 
@@ -30,7 +30,7 @@ function testAccessToken() {
   Logger.log("Success in getting access Token: " + token); // Check response
 }
 //-----------------------------------------------------------------------------------------------------------------------------------------------
-// Phần 2:Lấy dữ liệu từ Larkbase 
+// Getting data from Larkbase
 function fetchLarkData() { 
   const token = getAccessToken();
   if (!token) return;
@@ -77,7 +77,7 @@ function testFetchLarkData() {
 }
 
 //-----------------------------------------------------------------------------------------------------------------------------------------------
-// Phần 3: Xử lý và ghi dữ liệu vào Google Sheets
+// Data cleaning
 function convertTimestamp(ts) {
   if (!ts || typeof ts !== "number") return "";
   const date = new Date(ts);
@@ -134,7 +134,7 @@ sheet.getRange(2, 1, dataRows.length, headers.length).setValues(dataRows);
 }
 
 //-----------------------------------------------------------------------------------------------------------------------------------------------
-// Phần 4: Tạo báo cáo tổng hợp
+// Creating Summary report
 function createSummaryReport() { 
   const ss = SpreadsheetApp.getActiveSpreadsheet();
   const dataSheet = ss.getSheetByName("Data");
