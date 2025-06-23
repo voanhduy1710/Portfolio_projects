@@ -41,7 +41,7 @@ Skills Used: Excel, Pivot Tables, Data Cleaning, Visualization
 &nbsp;&nbsp;&nbsp;&nbsp;• Windows functions: Ranking, numbering, PARTITION BY (), moving average (ROWS BETWEEN..)  
 &nbsp;&nbsp;&nbsp;&nbsp;• Joining tables: Left, Right, Outer Joins      
 
-[**📄 5. Google Script Larksuite Auto-Report**](https://github.com/voanhduy1710/Portfolio_projects/blob/main/5.%20Google%20script%20Report%20Auto%20generator.gs)
+[**📄 5. Google Script Larksuite Auto-Report**](https://github.com/voanhduy1710/Portfolio_projects/blob/main/5.%20Larksuite%20Auto%20report%20Google%20script.gs)
 
 &nbsp;&nbsp;&nbsp;&nbsp;• Retrieved data from Larkbase API and populated Google Sheets automatically.  
 &nbsp;&nbsp;&nbsp;&nbsp;• Parsed and cleaned incoming data for accurate, consistent reporting.  
