@@ -34,12 +34,19 @@ Skills Used: Excel, Pivot Tables, Data Cleaning, Visualization
 &nbsp;&nbsp;&nbsp;&nbsp;• Built a dashboard to track total revenue, profit, orders, and trends over time.  
 &nbsp;&nbsp;&nbsp;&nbsp;• Key insights included product performance, cost breakdowns, and growth opportunities in eCommerce and regional markets.
 
-[**📁 4. SQL interview questions**](https://github.com/voanhduy1710/Portfolio_projects/blob/main/4.%20SQL_questions.md)
+[**📄 4. SQL interview questions**](https://github.com/voanhduy1710/Portfolio_projects/blob/main/4.%20SQL_questions.md)
 
 &nbsp;&nbsp;&nbsp;&nbsp;• Basics and Aggregating Data (COUNT, SUM, AVG, MIN, MAX, etc.)  
 &nbsp;&nbsp;&nbsp;&nbsp;• CTEs: Common table expressions   
 &nbsp;&nbsp;&nbsp;&nbsp;• Windows functions: Ranking, numbering, PARTITION BY (), moving average (ROWS BETWEEN..)  
 &nbsp;&nbsp;&nbsp;&nbsp;• Joining tables: Left, Right, Outer Joins      
+
+[**📄 5. Google Script Larksuite Auto-Report**](https://github.com/voanhduy1710/Portfolio_projects/blob/main/5.%20Google%20script%20Report%20Auto%20generator.gs)
+
+&nbsp;&nbsp;&nbsp;&nbsp;• Retrieved data from Larkbase API and populated Google Sheets automatically.
+&nbsp;&nbsp;&nbsp;&nbsp;• Parsed and cleaned incoming data for accurate, consistent reporting.
+&nbsp;&nbsp;&nbsp;&nbsp;• Applied formatting and validation to enhance data readability.
+&nbsp;&nbsp;&nbsp;&nbsp;• Saved time by eliminating manual data updates and improving workflow.    
 
 ## 🧰 Tools & Programs
 
