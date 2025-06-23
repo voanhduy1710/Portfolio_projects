@@ -43,9 +43,9 @@ Skills Used: Excel, Pivot Tables, Data Cleaning, Visualization
 
 [**📄 5. Google Script Larksuite Auto-Report**](https://github.com/voanhduy1710/Portfolio_projects/blob/main/5.%20Google%20script%20Report%20Auto%20generator.gs)
 
-&nbsp;&nbsp;&nbsp;&nbsp;• Retrieved data from Larkbase API and populated Google Sheets automatically.
-&nbsp;&nbsp;&nbsp;&nbsp;• Parsed and cleaned incoming data for accurate, consistent reporting.
-&nbsp;&nbsp;&nbsp;&nbsp;• Applied formatting and validation to enhance data readability.
+&nbsp;&nbsp;&nbsp;&nbsp;• Retrieved data from Larkbase API and populated Google Sheets automatically.  
+&nbsp;&nbsp;&nbsp;&nbsp;• Parsed and cleaned incoming data for accurate, consistent reporting.  
+&nbsp;&nbsp;&nbsp;&nbsp;• Applied formatting and validation to enhance data readability.  
 &nbsp;&nbsp;&nbsp;&nbsp;• Saved time by eliminating manual data updates and improving workflow.    
 
 ## 🧰 Tools & Programs
